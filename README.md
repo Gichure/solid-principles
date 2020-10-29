@@ -4,8 +4,8 @@ well-crafted code using the well known principles; the foundation for the develo
 and loosely coupled system.
 These principles are;  
 
-    # Single-responsibility principle
-    # Open–closed principle
-    # Liskov substitution principle
-    # Interface segregation principle
-    # Dependency inversion principle
+-  Single-responsibility principle
+-  Open–closed principle
+-  Liskov substitution principle
+-  Interface segregation principle
+-  Dependency inversion principle
